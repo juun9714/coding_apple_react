@@ -10,7 +10,11 @@ body{
   padding-left:20px;
   padding-right:20px;
 }
-
+.modal{
+  margin-top:20px;
+  background-color: #eee;
+  padding:20px;
+}
 .black-nav{
   background:black;
   width:100%;
